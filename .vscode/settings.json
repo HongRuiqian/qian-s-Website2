@@ -1,0 +1,15 @@
+{
+    "editor.fontLigatures": true,
+    "powermode.explosions.customExplosions": [
+        
+        
+],
+"powermode.enabled": true,
+"powermode.presets": "magic",
+"powermode.combo.counterEnabled": "show",
+"powermode.combo.counterSize": 4,
+"powermode.shake.enabled": false,
+"powermode.combo.timerEnabled": "show",
+"powermode.combo.timeout": 6
+
+}
